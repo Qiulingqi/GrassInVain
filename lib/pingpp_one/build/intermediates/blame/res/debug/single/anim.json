@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\debug\\anim\\cmbkb_push_bottom_out.xml",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\exploded-aar\\GrassInVain.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\debug\\anim\\cmbkb_push_bottom_in.xml",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\exploded-aar\\GrassInVain.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\res\\anim\\dialog_exit.xml"
+    }
+]

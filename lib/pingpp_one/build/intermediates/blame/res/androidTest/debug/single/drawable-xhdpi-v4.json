@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_unionpay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_unionpay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_success.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_success.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_shopping.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_shopping.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_failed.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_failed.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_unipay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_unipay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_jingdongpay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_jingdongpay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_cmbkb.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_cmbkb.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_alipay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_alipay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_baidupay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_baidupay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_baidu.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_baidu.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_wechat.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_wechat.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_done.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_done.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_wepay.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_wepay.png"
+    },
+    {
+        "merged": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pingpp_nocard.png",
+        "source": "D:\\project\\GrassInVain\\GrassInVain\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pingpp_nocard.png"
+    }
+]

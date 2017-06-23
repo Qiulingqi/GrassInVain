@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_5a2da5c86453dfbc6f0ae59f12efe7b4b8c61423.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_6ec5bc714f009b8971ae732ef11f56d3f6c3af62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/org.xutils-xutils-3.5.0_70a4a949ab509e1d46e93b53d54e054a5e55055e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2de115af18674383a126040daaa051b738eab78b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_b7ad1f80314b4d619b68259f4a727a007d8b54ec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b23fac872ff20d3fd6eb5b85aeed1862ce302b4f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_c8444c883e32fbfbe862ad7d840dce5b7e0f5f96.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a47a83c0e4838a04dfbd9f25f04142b735228b94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_bf17a3fa305426eabca132c998d747e8c91689e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_11266602c18ccfe69bcdabf85a04d101f59d98be.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/okio-1.6.0_0019341f4ca48ae67a6ea09598488fc02d650661.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2_85c31b8b93935f7ab9b69fc2c066ea44c0ca3524.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9508e01d68aa00ec9680a6970367cac36632e51f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_00c7bc013f3595df2a9731964027356ece5fb703.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.airsaid.library-pickerview-1.0.3_2c50d8b69099f3237c94ae83ef14fdd5f1fede4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_569195298b74a3185ba378ded269df43f41dfab1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/jackson-databind-2.4.2_73fb5b189000ebdc904265e878e92ffbba87cfd5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f468a0c8f931ee424101d2be8e8d9cdf76744ae0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.0_9eec1459d2f574394f47f6ef2d5b515d1fc23238.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.jude-rollviewpager-1.2.9_dd01548790a2ee932c414bdcfd99b3619d5471cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/GrassInVain-quickbase-unspecified_70e10f0844eb00dfedb1896ff17df508facb27c6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/jackson-core-2.4.2_1252c19a33888defca2a6ee1a363e40742db23b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/okhttp-3.2.0_0aeb5e73959db23032b0409d0bb04931ba75b243.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/aliyun-oss-sdk-android-2.2.0_c9cfad9e6e809cd974ec6643f85b797779067a95.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_702c60251cf14d6519d4f1c0c57a315eb2ea0a12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_a68eae684262b95346eeec8b4e92f94c76eb14ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_33b0663ddc7278726d851d479fc14cd856d015a9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.0_e4322ecb5f446135c9417f593870469f40f5851b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/GrassInVain-pullrefresh-unspecified_93bf097d530c79df28ac0667e9e5c5cdf566c60c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.makeramen-roundedimageview-2.3.0_78491d6923cfc1a0ed81c62fa7c2c9dc53f15395.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c27fb71769df77f4768baff36d174afafac04cbd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/logging-interceptor-3.1.2_69474f27133973ec3eb64f8b4f8be60132f96bb4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/jjwt-0.6.0_4b4b855c0a77a434548f39691963b0a69e2734a0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.youth.banner-banner-1.4.8_bcb315bcbcd4ac2a91217f074b66ca63ac9e5394.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d2507e00b4cb9b97c373f2132271d9f1c7103e74.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_c4f348ae863c4206f493fdbb049c207f11af0e80.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_5651e60a99aff09e1533911cc907603d342cc8da.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.github.loonggg-RecyclerViewBanner-v1.2_fc6f33309a507e6231a1154a44e8e8da8ed094cb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/picasso-2.5.2_2805b0a4ce75da931d5c77f3668bd220bbf52a87.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/rxjava-1.1.1_1197f3db8d01366e592672cbadb43192167bc5d6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_88332075e153e5cd359e789ad5b5bd1b76abf860.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4a97036d76f5fd8156ee4e2bf4b78bd52a057e51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_b3124ef9f90d578e4b45f08ac7f86d99cc1636bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_20669a790648015629152fe9d5529781c5df02bd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_686b0ae9468a2be139e491a3cb3d8f90479c5be1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/retrofit-2.0.2_9208f42ffe55d3ffa44ddcace053223c0dab2176.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.6.1_c6357c4059a1beeff350f01acaf4f94d24415b44.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
